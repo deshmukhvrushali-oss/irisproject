@@ -1,9 +1,8 @@
 numpy
-pyarrow
 pandas
-
 seaborn
 scikit-learn
 streamlit
+
 
 
